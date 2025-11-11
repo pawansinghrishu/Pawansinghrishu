@@ -11,6 +11,7 @@
 - 🔭 Working on **AWS Cloud Infrastructure & DevOps Automation**
 - ⚙️ Skilled in **CI/CD pipelines, Docker, Kubernetes, Terraform, Jenkins, and Linux**
 - 💡 Passionate about **automation, scalability, and continuous delivery**
+- 💼 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/pawan009)
 - 📫 Reach me at: **pawansinghrishu@gmail.com**
 
 ---
